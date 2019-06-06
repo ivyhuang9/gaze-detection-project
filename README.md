@@ -1,7 +1,7 @@
 # Gaze Detection Project
 
 ## Directory Contents
-current_systems_notes/ - contains notes about current gaze estimation systems\\
+current_systems_notes/ - contains notes about current gaze estimation systems\
 scripts/ - contains a script for processing a video using OpenFace and comparing the output data with 
 
 ## State of the Project
