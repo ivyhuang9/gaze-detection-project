@@ -15,7 +15,7 @@ def get_features(video_path, feature_extraction_exe):
 def reformat_data(video_name, directory, human_readable = False):
     """
     Reformats the CSV output of OpenFace FeatureExtraction into the PsychDS format. Creates a CSV file,
-    named [video name]_reformatted.csv, with the newly reformatted data in the parent directory of the video.
+    named [video name]_openface_data.csv, with the newly reformatted data in the parent directory of the video.
     
     Parameters:
         video_name (String): name of the video (not including type of file)
